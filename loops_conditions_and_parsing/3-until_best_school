@@ -1,1 +1,24 @@
 #!/usr/bin/env bash
+# Bash script that displays 'Best School' ten times
+
+# Use until loop
+
+
+
+count=0
+
+
+
+until [ $count -eq 10 ]
+
+do
+
+	  echo "Best School"
+
+	    ((count++))
+
+    done
+
+    Footer
+
+    © 2022 GitHub, Inc.
